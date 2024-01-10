@@ -1,0 +1,12 @@
+JsonpData({
+    "lines":[
+        {
+            "title":"*彩虹糖-推荐线路-首选",
+            "host":"http://cht1.dian668.com"
+        },
+        {
+            "title":"*彩虹糖-临时线路-备用",
+            "host":"http://115.223.43.22:202"
+        }
+]
+})
